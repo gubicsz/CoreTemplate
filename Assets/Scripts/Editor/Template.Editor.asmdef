@@ -1,0 +1,18 @@
+{
+    "name": "Template.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9b66d8e5e92d7904380bed6e73bba544"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

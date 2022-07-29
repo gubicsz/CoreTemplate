@@ -1,5 +1,5 @@
 # CoreTemplate
-A Unity project template.
+A Unity project template that contains installed and configured core official and popular third party packages to quickly start new projects. The project is structured based on best practices. If you don't need a specific plugin just simply uninstall it from the Package Manager.
 
 ## Installation
 

@@ -12,7 +12,7 @@ A Unity project template.
 Most of the dependencies are auto-installing via Unity Package Manager, however some of them are located in the the Plugins folder and need to be updated manually.
 
 ### Unity packages:
-- 2d Sprite
+- 2D Sprite
 - Addressables
 - Newtonsoft Json
 - Test Framework
@@ -24,6 +24,7 @@ Most of the dependencies are auto-installing via Unity Package Manager, however 
 - [UniRx](https://github.com/neuecc/UniRx)
 - [UniTask](https://github.com/Cysharp/UniTask)
 - [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes)
+- [MyBox](https://github.com/Deadcows/MyBox)
 - [DOTween](https://github.com/Demigiant/dotween)
 - [Animation-Sequencer](https://github.com/brunomikoski/Animation-Sequencer)
 - [NSubstitute](https://github.com/nsubstitute/NSubstitute)

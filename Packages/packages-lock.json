@@ -21,6 +21,17 @@
       "dependencies": {},
       "url": "https://package.openupm.com"
     },
+    "com.domybest.mybox": {
+      "version": "1.7.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0",
+        "com.unity.modules.ai": "1.0.0",
+        "com.unity.modules.physics2d": "1.0.0"
+      },
+      "url": "https://package.openupm.com"
+    },
     "com.neuecc.unirx": {
       "version": "7.1.0",
       "depth": 0,
